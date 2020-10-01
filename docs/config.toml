@@ -1,4 +1,4 @@
-baseURL = "kbatuigas.github.io/sdg-course-docs-code/"
+baseURL = "https://kbatuigas.github.io/sdg-course-docs-code/"
 languageCode = "en-us"
 title = "Documentation Site for Stellar Project"
 

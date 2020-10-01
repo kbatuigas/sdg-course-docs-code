@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation Site for Stellar Project</title>
-    <link>kbatuigas.github.io/sdg-course-docs-code/</link>
+    <link>https://kbatuigas.github.io/sdg-course-docs-code/</link>
     <description>Recent content on Documentation Site for Stellar Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="kbatuigas.github.io/sdg-course-docs-code/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kbatuigas.github.io/sdg-course-docs-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>kbatuigas.github.io/sdg-course-docs-code/</link>
+      <link>https://kbatuigas.github.io/sdg-course-docs-code/</link>
       <pubDate>Thu, 01 Oct 2020 01:42:25 -0400</pubDate>
       
-      <guid>kbatuigas.github.io/sdg-course-docs-code/</guid>
+      <guid>https://kbatuigas.github.io/sdg-course-docs-code/</guid>
       <description>This is the homepage for the Stellar app docs.</description>
     </item>
     
